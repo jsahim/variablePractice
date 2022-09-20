@@ -12,3 +12,12 @@ var siblings = 1
 var isMarried = true
 var hadDinner = false
 var isTired = true
+
+email = "lindasmith@gmail.com"
+lastName = "Johnson"
+
+console.log(email)
+console.log(lastName)
+console.log(firstName)
+console.log(age)
+console.log(isMarried)
