@@ -7,3 +7,8 @@ var email = "joeshmo@gmail.com"
 var age = 17
 var cats = 2
 var siblings = 1
+
+// boolean variables
+var isMarried = true
+var hadDinner = false
+var isTired = true
